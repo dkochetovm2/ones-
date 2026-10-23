@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+header{
+ background-color:rgb(96, 157, 168);padding: 10px;
+}
+h1 {
+    background-color: aqua;font-family: Verdana ; text-align: center;border-radius: 10px;
+}
+footer{
+    background-color: aqua;text-align: left;
+}
+footer p{
+    background-color: blueviolet;color:whitesmoke;padding: 10px;
+}
+nav{
+    background-color: cyan;text-align: center;font-family: fantasy;padding:  25px;
+}
+nav a{
+    margin: 50px;
+}
